@@ -1,2 +1,4 @@
 # Python
-Learning about python in FIAP, Class: Computional Thinking with Python
+Learning about Python in FIAP
+ 
+Class: Computional Thinking with Python
